@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{8fbf289a-ccff-4022-9176-5988822f1096}">
+        <property name="name">
+            <value>Survival_Shooter</value>
+        </property>
+        <relationship name="folder">
+            <destination>{073138eb-8a8e-4674-83c9-39bf4923a33b}</destination>
+        </relationship>
+    </object>
+</objects>

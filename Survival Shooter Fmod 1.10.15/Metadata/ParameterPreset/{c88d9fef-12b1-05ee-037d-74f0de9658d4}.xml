@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{c88d9fef-12b1-05ee-037d-74f0de9658d4}">
+        <property name="name">
+            <value>IsUnderHalfHealth</value>
+        </property>
+        <relationship name="folder">
+            <destination>{8fbf289a-ccff-4022-9176-5988822f1096}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{8889594f-9a3b-46e9-b4de-b74a2c1d9b75}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{8889594f-9a3b-46e9-b4de-b74a2c1d9b75}">
+        <property name="isExposedRecursively">
+            <value>false</value>
+        </property>
+    </object>
+</objects>

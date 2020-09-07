@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{0dcad4f7-a7ca-416a-a2d5-5de07bfeeb2c}">
+        <property name="assetPath">
+            <value>02 - LOOP INTRO.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.2871201814058955</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{350eda57-32da-4c97-96af-b56bcbe89aa6}</destination>
+        </relationship>
+    </object>
+</objects>

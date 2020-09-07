@@ -1,0 +1,16 @@
+{f9a0af77-1640-4447-8197-2712b21ccffc} event:/Music/Survival_Shooter
+{8c2db928-69ad-4206-a3e3-ee2ffab27b98} event:/SFX/Enemies/Hellephant/Hellephant_Death
+{542af773-5a37-415c-8fa6-5048ceb8831e} event:/SFX/Enemies/Hellephant/Hellephant_FootStep
+{86c19345-3c14-41ed-864f-7568c2e89613} event:/SFX/Enemies/Hellephant/Hellephant_Hurt
+{0be103f3-fc21-4ad0-ac9e-227df671d22b} event:/SFX/Enemies/ZomBear/ZomBear_Death
+{39c55d44-57f9-451d-a8ab-8bf005e70b3c} event:/SFX/Enemies/ZomBear/ZomBear_Hurt
+{a188a68a-05dc-45cc-8f8b-70793b07aca9} event:/SFX/Enemies/ZomBunny/ZomBunny_Death
+{e0da14a6-9caf-4dc2-ba69-cebb1f8acf95} event:/SFX/Enemies/ZomBunny/ZomBunny_Hurt
+{3adbd6f4-bbce-4af7-a962-6fbd4ef5d8cf} event:/SFX/Player/Player_Death
+{7b9e99c9-5568-430d-bde6-6a9633b12c5c} event:/SFX/Player/Player_FootStep
+{05f75423-32bc-4482-bb65-e833c89eb476} event:/SFX/Player/Player_GunShot
+{1250607b-6de6-4193-b728-376254dd8039} event:/SFX/Player/Player_Heartbeat
+{d8ad237c-9d68-41b4-9520-78052499db9a} event:/SFX/Player/Player_Hurt
+{7461ec5a-5538-4f60-a6f4-5cde4b00cee6} bus:/
+{9ffaffe6-7ffa-4944-bd4d-5fba21f83b0c} bus:/Reverb
+{9d145722-b7c1-4ed0-b975-57189fa950da} bank:/Master Bank
