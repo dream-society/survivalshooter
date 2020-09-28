@@ -93,6 +93,11 @@ namespace CompleteProject
             }
         }
 
+        public void IncreaseHealth(int amount)
+        {
+            currentHealth += amount;
+            healthSlider.value = currentHealth;
+        }
 
         void Death ()
         {

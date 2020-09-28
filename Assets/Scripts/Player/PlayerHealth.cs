@@ -63,6 +63,11 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    public void IncreaseHealth (int amount)
+    {
+        currentHealth += amount;
+        healthSlider.value = currentHealth;
+    }
 
     void Death ()
     {
