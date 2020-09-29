@@ -14,7 +14,7 @@ namespace CompleteProject
 
         float timer = 0.0f;
 
-        public float slowDuration;
+        float slowDuration;
         float slowTimer = 0.0f;
 
         void Start ()
